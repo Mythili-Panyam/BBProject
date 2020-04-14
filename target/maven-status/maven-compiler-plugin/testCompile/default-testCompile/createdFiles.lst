@@ -1,0 +1,15 @@
+Com\Test\BlueBadge\Test\ApplicantDetailsPageTest.class
+Com\Test\BlueBadge\Test\AddPhotoPageTest.class
+Com\Test\BlueBadge\Test\ProofOfAddressPageTest.class
+Com\Test\BlueBadge\Test\SignUpPageTest.class
+Com\Test\BlueBadge\Test\DeclarationPageTest.class
+Com\Test\BlueBadge\Test\EligibilityCheckPageTest.class
+Com\Test\BlueBadge\Test\ApplicantAgePageTest.class
+Com\Test\BlueBadge\Test\ResetPasswordPageTest.class
+Com\Test\BlueBadge\Test\ApplyForABlueBadgePageTest.class
+Com\Test\BlueBadge\Test\ExistingBlueBadgePageTest.class
+Com\Test\BlueBadge\Test\BeforeYouBeginPageTest.class
+Com\Test\BlueBadge\Test\ProofOfIdentityPageTest.class
+Com\Test\BlueBadge\Test\LoginPageTest.class
+Com\Test\BlueBadge\Test\ProofOfBenefitPageTest.class
+Com\Test\BlueBadge\Test\YourDetailsPageTest.class

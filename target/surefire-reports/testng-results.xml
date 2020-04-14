@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BlueBadge Regression Suite" duration-ms="26701" started-at="2020-04-14T14:31:33Z" finished-at="2020-04-14T14:32:00Z">
+    <groups>
+    </groups>
+    <test name="BlueBadge Functional Regression Test" duration-ms="26701" started-at="2020-04-14T14:31:33Z" finished-at="2020-04-14T14:32:00Z">
+      <class name="Com.Test.BlueBadge.Test.SignUpPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="setup" is-config="true" duration-ms="16179" started-at="2020-04-14T14:31:33Z" finished-at="2020-04-14T14:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getPageTitleTest()[pri:1, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="getPageTitleTest" duration-ms="249" started-at="2020-04-14T14:31:50Z" description="verifying Page Title" finished-at="2020-04-14T14:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageTitleTest -->
+        <test-method status="PASS" signature="verifyPageLogoTest()[pri:2, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifyPageLogoTest" duration-ms="976" started-at="2020-04-14T14:31:50Z" finished-at="2020-04-14T14:31:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageLogoTest -->
+        <test-method status="PASS" signature="verifyHeaderTextTest()[pri:3, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifyHeaderTextTest" duration-ms="691" started-at="2020-04-14T14:31:51Z" finished-at="2020-04-14T14:31:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderTextTest -->
+        <test-method status="PASS" signature="verifyMenuOption1()[pri:4, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifyMenuOption1" duration-ms="654" started-at="2020-04-14T14:31:52Z" finished-at="2020-04-14T14:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenuOption1 -->
+        <test-method status="PASS" signature="verifyMenuOption2()[pri:5, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifyMenuOption2" duration-ms="639" started-at="2020-04-14T14:31:53Z" finished-at="2020-04-14T14:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenuOption2 -->
+        <test-method status="PASS" signature="verifypageBottomOption1()[pri:6, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifypageBottomOption1" duration-ms="620" started-at="2020-04-14T14:31:53Z" finished-at="2020-04-14T14:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypageBottomOption1 -->
+        <test-method status="PASS" signature="verifypageBottomOption2()[pri:7, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifypageBottomOption2" duration-ms="640" started-at="2020-04-14T14:31:54Z" finished-at="2020-04-14T14:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypageBottomOption2 -->
+        <test-method status="PASS" signature="verifypageBottomOption3()[pri:8, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifypageBottomOption3" duration-ms="641" started-at="2020-04-14T14:31:54Z" finished-at="2020-04-14T14:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypageBottomOption3 -->
+        <test-method status="PASS" signature="verifypageBottomOption4()[pri:9, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifypageBottomOption4" duration-ms="636" started-at="2020-04-14T14:31:55Z" finished-at="2020-04-14T14:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypageBottomOption4 -->
+        <test-method status="PASS" signature="verifypageBottomOption5()[pri:10, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifypageBottomOption5" duration-ms="640" started-at="2020-04-14T14:31:56Z" finished-at="2020-04-14T14:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypageBottomOption5 -->
+        <test-method status="PASS" signature="verifypageBottomOption6()[pri:11, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="verifypageBottomOption6" duration-ms="607" started-at="2020-04-14T14:31:56Z" finished-at="2020-04-14T14:31:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypageBottomOption6 -->
+        <test-method status="PASS" signature="clickOnLoginButtonTest()[pri:12, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="clickOnLoginButtonTest" duration-ms="2348" started-at="2020-04-14T14:31:57Z" finished-at="2020-04-14T14:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoginButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Test.BlueBadge.Test.SignUpPageTest@13579834]" name="tearDown" is-config="true" duration-ms="688" started-at="2020-04-14T14:31:59Z" finished-at="2020-04-14T14:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.Test.BlueBadge.Test.SignUpPageTest -->
+    </test> <!-- BlueBadge Functional Regression Test -->
+  </suite> <!-- BlueBadge Regression Suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="BlueBadge Regression Suite">
+<listeners>
+<!--  <listener class-name="Com.Test.BlueBadge.Listeners.ExtentReportListener"/> -->
+<!--  <listener class-name="Com.Test.BlueBadge.Listeners.AllureReportListener"/>  -->
+<listener class-name="Com.Test.BlueBadge.Listeners.TesultsReportListener"/> 
+                                                                        
+</listeners>
+<test name="BlueBadge Functional Regression Test">
+<classes>
+<class name="Com.Test.BlueBadge.Test.SignUpPageTest" />
+</classes>
+</test>
+</suite>
